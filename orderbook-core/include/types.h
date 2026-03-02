@@ -1,3 +1,5 @@
+/* CORE TYPES */
+
 #pragma once
 
 #include <cstdint>
