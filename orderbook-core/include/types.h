@@ -1,4 +1,4 @@
-/* CORE TYPES */
+/* ===== CORE TYPES ===== */
 
 #pragma once
 
