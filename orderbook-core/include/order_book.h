@@ -83,7 +83,7 @@ struct PlaceResult {
 
 /* Result of canceling a resting order.
     If canceled = false, either the order did not exist (alredy filled/canceled/unknown)
-    or it was never resting
+    or it was never resting.
 */
 struct CancelResult {
     bool canceled{false};
